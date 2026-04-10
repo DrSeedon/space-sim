@@ -6,6 +6,38 @@ Fly a shuttle through the Solar System in the scale you were never supposed to f
 
 ![Physics](https://img.shields.io/badge/physics-Newtonian-blue) ![Textures](https://img.shields.io/badge/textures-8K-orange) ![Stars](https://img.shields.io/badge/stars-5000_real-yellow)
 
+## Gallery
+
+### Earth — 8K daymap with PBR ocean + night city lights
+![Earth daymap](screenshots/01_earth.jpg)
+![Earth night side with city lights and rising Sun](screenshots/02_night_side.jpg)
+
+### The Sun — HDR overbright core + multi-layer corona + bloom
+![Sun close-up](screenshots/03_sun_closeup.jpg)
+
+### Saturn & Titan through the telescope (zoom up to 180,000×)
+![Saturn with rings and Titan](screenshots/04_saturn.jpg)
+
+### Mars and its moons — Phobos & Deimos
+![Mars via telescope](screenshots/05_mars_telescope.jpg)
+![Shuttle near Deimos, Mars in background](screenshots/06_deimos.jpg)
+![Orbit prediction lines around Mars](screenshots/13_mars_orbits.jpg)
+![Phobos close approach with trajectory spirals](screenshots/14_phobos.jpg)
+
+### Solar System overview with all orbits and autopilot
+![System overview with planetary orbits](screenshots/07_system_overview.jpg)
+
+### In flight — engine burn near Earth
+![Main engine burn](screenshots/08_burn.jpg)
+![Earth orbit with trajectory lines](screenshots/09_earth_orbit.jpg)
+
+### Cinematic — body crescent silhouette
+![Crescent silhouette](screenshots/10_crescent.jpg)
+
+### The scale problem — Jupiter from Earth orbit (why you need a telescope)
+![Jupiter as a tiny dot from Earth](screenshots/11_jupiter_scale.jpg)
+![Galilean moons orbits](screenshots/12_galilean.jpg)
+
 ## What's real
 
 - **Real planetary data** from JPL/NASA J2000 ephemerides — masses, radii, orbital elements of 8 planets + 12 moons
