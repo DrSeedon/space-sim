@@ -8,7 +8,8 @@ Fly a shuttle through the Solar System in the scale you were never supposed to f
 
 ## Demo
 
-![Demo gameplay](screenshots/demo.gif)
+![Demo — orbit view](screenshots/demo1.gif)
+![Demo — flight](screenshots/demo2.gif)
 
 ## Gallery
 
