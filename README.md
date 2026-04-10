@@ -6,6 +6,10 @@ Fly a shuttle through the Solar System in the scale you were never supposed to f
 
 ![Physics](https://img.shields.io/badge/physics-Newtonian-blue) ![Textures](https://img.shields.io/badge/textures-8K-orange) ![Stars](https://img.shields.io/badge/stars-5000_real-yellow)
 
+## Demo
+
+![Demo gameplay](screenshots/demo.gif)
+
 ## Gallery
 
 ### Earth — 8K daymap with PBR ocean + night city lights
